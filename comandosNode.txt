@@ -1,0 +1,6 @@
+npm install -g ionic 
+
+//para caso a versão do node seja maior que a 6, ira dar erro ao startar, então rodar o comando abaixo
+npm install @ionic/app-scripts@latest --save-dev
+
+ionic serve
